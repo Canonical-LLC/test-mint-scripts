@@ -51,7 +51,6 @@ library
                   bytestring
                 , cardano-api
                 , plutus-core
-                , plutus-ledger
                 , plutus-ledger-api
                 , plutus-tx
                 , plutus-tx-plugin
